@@ -1,0 +1,16 @@
+body {
+	background: #1d2630;
+}
+
+
+* {
+	color: #fff;
+}
+
+#Update {
+	display: none;
+}
+
+div input::placeholder {
+	opacity: 1;
+}
